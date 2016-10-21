@@ -1,5 +1,5 @@
 ![version](https://img.shields.io/badge/version-0.0.1-yellowgreen.svg)
-![contributors](https://img.shields.io/badge/style-social-green.svg?contributors=1)
+![contributors](https://img.shields.io/badge/contributors-1-green.svg?style=social)
 
 
 # Distributed Autonomous Governance
