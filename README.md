@@ -1,4 +1,6 @@
 ![version](https://img.shields.io/badge/version-0.0.1-yellowgreen.svg)
+![contributors](https://img.shields.io/badge/contributors-1-red.svg)
+
 
 # Distributed Autonomous Governance
 
@@ -22,5 +24,6 @@ To begin, let's just throw some of the initial ideas into this readme.
 5...
 
 # Style guides:
-* https://guides.github.com/features/mastering-markdown/
-* http://chris.beams.io/posts/git-commit/
+* [github markdown] (https://guides.github.com/features/mastering-markdown/)
+* [git commit messages] (http://chris.beams.io/posts/git-commit/)
+* [badges] (https://github.com/badges/shields)
