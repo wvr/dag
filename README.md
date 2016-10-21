@@ -1,3 +1,5 @@
+[version](https://img.shields.io/badge/version-0.0.1-yellowgreen.svg)
+
 # Distributed Autonomous Governance
 
 To begin, let's just throw some of the initial ideas into this readme.
