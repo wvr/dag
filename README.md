@@ -1,4 +1,4 @@
-![version](https://img.shields.io/badge/version-0.0.1-yellowgreen.svg)
+![version](https://img.shields.io/badge/version-0.0.1--theorycrafting-yellowgreen.svg)
 
 
 # Distributed Autonomous Governance
